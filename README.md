@@ -39,6 +39,6 @@ Homepage
 ![](images/Homepage.png)
 
 TodoList page
-![](image/todo.png)
+![](images/todo.png)
 
 ## Live at: https://todo-list-nextjs-kappa.vercel.app/
