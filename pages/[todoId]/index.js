@@ -2,7 +2,7 @@ import React from "react";
 import axios from "axios";
 import TodoItem from "../../components/TodoItem";
 import styles from "../../styles/Home.module.css";
-import { AiOutlineRollback } from "react-icons/Ai";
+import { AiOutlineRollback } from "react-icons/ai";
 import { useRouter } from "next/router";
 
 function TodoList({ list }) {
