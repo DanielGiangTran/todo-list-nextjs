@@ -1,0 +1,26 @@
+.container {
+  padding: 0;
+}
+
+.userWrapper {
+  display: flex;
+  flex-direction: column;
+}
+.header {
+  display: flex;
+  justify-content: center;
+  font-family: "Dancing Script", cursive;
+  font-family: "Indie Flower", cursive;
+}
+
+.todoWrapper {
+  display: flex;
+  flex-direction: column;
+}
+.backBtn {
+  display: flex;
+  justify-content: center;
+  font-size: 30px;
+  margin: 10px 0 20px 0;
+  cursor: pointer;
+}
